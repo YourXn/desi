@@ -1,10 +1,10 @@
 class script(object):
-    START_TXT = """𝙷𝙴𝙻𝙾 {},
-𝙼𝚈 𝙽𝙰𝙼𝙴 𝙸𝚂 <a href=https://t.me/{}>{}</a>,  𝙹𝚄𝚂𝚃 𝙰𝙳𝙳 𝙼𝙴 𝚃𝙾 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿 𝙰𝙽𝙳 𝙴𝙽𝙹𝙾𝚈 😍"""
-    HELP_TXT = """𝙷𝙴𝚈 {}
+    START_TXT = """Hello {},
+My Name Is <a href=https://t.me/{}>{}</a>,  Just Add Me To Your Group And Enjoy 🧑‍🎤"""
+    HELP_TXT = """Hey {}
 Here Is The Help For My Commands."""
     ABOUT_TXT = """✯ My Name: {}
-🕵️ Creator: <a href=https://t.me/desixprobot>Desi</a>"""
+🦹 Creator: <a href=https://t.me/desixprobot>Desi</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and EvaMaria will respond whenever a keyword is found the message
