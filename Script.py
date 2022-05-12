@@ -6,7 +6,7 @@ Here Is The Help For My Commands."""
     ABOUT_TXT = """👸 Name: {}
 🦹 Creator: <a href=https://t.me/YourX>YourX</a>
 🤖 Version: 2.0 ⚡ """
-    MANUELFILTER_TXT = """Help: <b>Filters</b>
+    MANUELFILTER_TXT = """ <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and Bot will respond whenever a keyword is found the message
 
@@ -41,7 +41,7 @@ Here Is The Help For My Commands."""
 2. make sure that your channel does not contains camrips, porn and fake files.
 3. Forward the last message to me with quotes.
  I'll add all the files in that channel to my db."""
-    CONNECTION_TXT = """Help: <b>Connections</b>
+    CONNECTION_TXT = """ <b>Connections</b>
 
 - Used to connect bot to PM for managing filters 
 - it helps to avoid spamming in groups.
