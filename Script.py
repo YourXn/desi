@@ -4,7 +4,8 @@ My Name Is <a href=https://t.me/{}>{}</a>,  Just Add Me To Your Group And Enjoy 
     HELP_TXT = """Hey {}
 Here Is The Help For My Commands."""
     ABOUT_TXT = """✯ My Name: {}
-🦹 Creator: <a href=https://t.me/desixprobot>Desi</a>"""
+🦹 Creator: <a href=https://t.me/YourX>YourX</a>
+🤖 Version: 2.0 ⚡ """
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and EvaMaria will respond whenever a keyword is found the message
