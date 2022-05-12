@@ -57,7 +57,7 @@ Here Is The Help For My Commands."""
     EXTRAMOD_TXT = """Help: <b>Extra Modules</b>
 
 <b>NOTE:</b>
-these are the extra features of Eva Maria
+
 
 <b>Commands and Usage:</b>
 • /id - <code>get id of a specified user.</code>
