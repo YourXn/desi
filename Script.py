@@ -56,7 +56,7 @@ Here Is The Help For My Commands."""
 • /connections - <code>list all your connections</code>"""
     EXTRAMOD_TXT = """Help: <b>Extra Modules</b>
 
-<b>NOTE:</b>
+
 
 
 <b>Commands and Usage:</b>
